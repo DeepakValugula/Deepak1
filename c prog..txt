@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main();
+{
+int a,b add; //declaring variables
+printf("enter first number - ");
+scanf("%d",&a); //accepting number one
+printf("enter second number - ");
+scanf("%d",&b); //accepting number two
+add = a+ b; //Adding both of them
+printf("The addition of numbers %d and %d is %d" ,a,b,add);//Printing the result
+}
+
+
+
